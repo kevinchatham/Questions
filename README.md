@@ -77,7 +77,7 @@ Example
 public static void main(){
     final String input = "aabbccdd";
 
-    final String output = removeDuplicates(numbers, 5);
+    final String output = removeDuplicates(input);
 
     System.out.println("Input: " + input);   // input is aabbccdd
     System.out.println("Output: " + output); // output is abcd
