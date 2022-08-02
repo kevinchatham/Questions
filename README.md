@@ -61,11 +61,11 @@ Buzz     // 10 is divisible by 5
 Fizz     // 12 is divisible by 3
 13       // 13
 14       // 14
-FizzBuzz // 15 is divisable by 3 and 5
-...
-98
-Fizz // 99
-Buzz // 100
+FizzBuzz // 15 is divisible by 3 and 5
+...      // everything else
+98       // 98
+Fizz     // 99
+Buzz     // 100
 ```
 
 ### #3 Remove Duplicate Characters
