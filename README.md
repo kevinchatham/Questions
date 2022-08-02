@@ -1,4 +1,4 @@
-# Hello :)
+# Technical Challenge
 
 Please review the rules and choose to answer any one of the three problems below. 
 
