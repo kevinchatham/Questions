@@ -5,13 +5,21 @@ Please review the rules and choose to answer any one of the three problems below
 ## Rules
 
 1. Use Java to build and execute solution. 
+
      - If you are more comfortable with another language please let us know.
+     
 1. Use the editor you are comfortable with.
+
      - We want to see how you work daily.
+     
 1. Communicate your ideas as you go.
+
      - We want to know your thought process. 
+     
 1. Search engines are allowed.
+
      - Being able to search effectively is a valued skill. 
+
 1. You must share your screen at all times.
 
 Additionally:
