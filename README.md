@@ -29,10 +29,11 @@ Write and consume a method that checks an array of numbers to determine if there
 Example
 ```java
 public static void main(){
-    final int[] numbers = { 1, 2, 3, 4 };
-
+    final int[] input = { 1, 2, 3, 4 };
+    final int target = 5;
+    
     // This is true because the pair (1,4) sums to five.
-    final Boolean matches = matchingPair(numbers, 5); 
+    final Boolean matches = matchingPair(input, target); 
 }
 
 public static Boolean matchingPair(int[] input, int target) {
@@ -76,7 +77,6 @@ Example
 ```java
 public static void main(){
     final String input = "aabbccdd";
-
     final String output = removeDuplicates(input);
 
     System.out.println("Input: " + input);   // input is aabbccdd
