@@ -26,7 +26,7 @@ Additionally:
 
 ### #1 Sum Checker
 
-Write and consume a method that checks an array of numbers to determine if there is at least on pair of numbers whose sum equals the target.
+Write and consume a method that checks an array of numbers to determine if there is at least one pair of numbers whose sum equals the target.
 
 Example
 ```java
@@ -41,12 +41,11 @@ public static void main(){
 public static Boolean matchingPair(int[] input, int target) {
     ...
 }
-
 ```
 
 ### #2 Fizz Buzz
 
-Write a program that prints the numbers from 1 to 100 to the console. However, if the number is divisible by 3 print `Fizz`. If the number is divisible by 5 print `Buzz`. Finally, if the number is divisible by 3 and 5 print `FizzBuzz`.
+Write a program that prints the numbers from 1 to 100 to the console. If the number is divisible by 3 print `Fizz`. If the number is divisible by 5 print `Buzz`. If the number is divisible by 3 and 5 print `FizzBuzz`. Otherwise print the number.
 
 Sample Output
 ```java
