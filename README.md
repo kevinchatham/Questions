@@ -96,3 +96,23 @@ public static String removeDuplicates(String input) {
     ...
 }
 ```
+
+## Points of Discussion
+
+- SOAP vs REST
+
+- Where do you define properties in Spring Boot application?
+
+- Spring Externalized Configuration
+
+- What are Spring Profiles?
+
+- What are actuator endpoints?
+
+- What is spring filter?
+
+- What is JPA? Connection pooling?
+
+- Circuitbreaker concepts
+
+- Batch processing
